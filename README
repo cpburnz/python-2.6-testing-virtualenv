@@ -1,0 +1,3 @@
+This repository contains a couple example scripts for creating and using a
+virtualenv in Python 2.6 for unit testing. I didn't want to just delete these
+after I no longer had a use for them.
