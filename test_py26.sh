@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # This script tests Python 2.6 using the virtual environment at ".py26-env".
-# This is simplifies testing because Tox no longer supports Python 2.6.
+# This simplifies testing because Tox no longer supports Python 2.6.
 #
 set -e
 
